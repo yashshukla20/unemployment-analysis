@@ -8,3 +8,5 @@ images:
 <img width="626" alt="Screenshot 2023-05-19 at 12 24 44 AM" src="https://github.com/yashshukla20/unemployment-analysis/assets/127749722/bfc8f7e4-f41d-4df3-8e07-623e38844a4b">
 
 With the help of these graphs we can easily study the rate of unemployment in the given data set
+
+
