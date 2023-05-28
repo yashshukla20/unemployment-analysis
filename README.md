@@ -1,6 +1,7 @@
 # unemployment-analysis
 overview:
-The unemployment rate is calculated based on a particular region, so to analyze unemployment I will be using an unemployment dataset of India. The dataset I’m using here contains data on India’s unemployment rate during Covid-19.
+The unemployment rate is calculated based on a particular region, so to analyze unemployment I will be using an 
+unemployment dataset of India. The dataset I’m using here contains data on India’s unemployment rate during Covid-19.
 images:
 <img width="567" alt="Screenshot 2023-05-19 at 12 25 24 AM" src="https://github.com/yashshukla20/unemployment-analysis/assets/127749722/bc19d698-497a-4f9f-aa27-8d5f6647293c">
 <img width="633" alt="Screenshot 2023-05-19 at 12 25 14 AM" src="https://github.com/yashshukla20/unemployment-analysis/assets/127749722/ae5927fe-6ad0-493e-aebe-32bd08ce5d59">
